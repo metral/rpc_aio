@@ -1,0 +1,3 @@
+[submodule "ansible-lxc-rpc"]
+	path = ansible-lxc-rpc
+	url = git@github.com:metral/ansible-lxc-rpc.git
