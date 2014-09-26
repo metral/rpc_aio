@@ -15,7 +15,7 @@
 set -e -u -v -x
 
 REPO_URL=${REPO_URL:-"https://github.com/metral/ansible-lxc-rpc.git"}
-REPO_BRANCH=${REPO_BRANCH:-"master"}
+REPO_BRANCH=${REPO_BRANCH:-"stable/icehouse"}
 FROZEN_REPO_URL=${FROZEN_REPO_URL:-"http://rpc-slushee.rackspace.com"}
 MAX_RETRIES=${MAX_RETRIES:-5}
 
